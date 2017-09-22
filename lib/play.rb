@@ -41,4 +41,5 @@ def play(board)
   while turn_num < 9
     turn(board)
     turn +=1
+  end 
 end
